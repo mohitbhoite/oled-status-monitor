@@ -1,5 +1,5 @@
 # OLED Status monitor for the Particle Electron
-
+![](https://github.com/mohitbhoite/oled-status-monitor/blob/master/oled01.jpg)
 Sometimes it's nice to monitor the status of your Electron without having to loop that information through the interwebs.This example shows you how to use an OLED screen (available with the Particle maker-kit) to display this information. You can monitor things like:
 
  - Battery Voltage
